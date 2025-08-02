@@ -28,6 +28,6 @@ It supports basic arithmetic operations with continuous looping and error handli
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/python-calculator.git
+git clone https://github.com/Anishmote/python-calculator.git
 cd python-calculator
 
